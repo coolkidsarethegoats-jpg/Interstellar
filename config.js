@@ -1,6 +1,6 @@
-const config = {
+const config =true pnpm
   // Password protection. Set challenge to true and add users to require a login.
-  challenge: false,
+  challenge: true,
   users: {
     interstellar: "password",
   },
